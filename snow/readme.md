@@ -1,0 +1,1 @@
+运行前需已安装 pygame，可参考我们的教程：http://res.crossincode.com/wechat/pygame.html
